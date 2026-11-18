@@ -37,7 +37,7 @@ Face-Mesh/
 ### 1. Clone the Repository
 
 ```bash
-[git clone https://github.com/YOUR_USERNAME/Face-Mesh.git](https://github.com/simplelife277/AI-Face-Mesh-Detection)
+https://github.com/simplelife277/AI-Face-Mesh-Detection
 ```
 
 ### 2. Navigate to the Project Folder
